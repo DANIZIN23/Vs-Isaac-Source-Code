@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darkroomdecor2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="decorbump0000" x="0" y="0" width="871" height="843" frameX="0" frameY="-3" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0001" x="0" y="0" width="871" height="843" frameX="0" frameY="-8" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0002" x="871" y="0" width="871" height="843" frameX="0" frameY="-16" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0003" x="0" y="843" width="871" height="843" frameX="0" frameY="-29" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0004" x="871" y="843" width="871" height="843" frameX="0" frameY="-23" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0005" x="0" y="0" width="871" height="843" frameX="0" frameY="-14" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0006" x="0" y="0" width="871" height="843" frameX="0" frameY="-8" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0007" x="0" y="0" width="871" height="843" frameX="0" frameY="-4" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0008" x="0" y="0" width="871" height="843" frameX="0" frameY="-1" frameWidth="871" frameHeight="872"/>
+	<SubTexture name="decorbump0009" x="0" y="0" width="871" height="843" frameX="0" frameY="0" frameWidth="871" frameHeight="872"/>
+</TextureAtlas>

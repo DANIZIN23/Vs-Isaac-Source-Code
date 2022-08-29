@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="babyplum.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daplum0000" x="0" y="0" width="640" height="681" frameX="0" frameY="-50" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0001" x="640" y="0" width="654" height="695" frameX="-5" frameY="-25" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0002" x="1294" y="0" width="635" height="698" frameX="-5" frameY="-12" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0003" x="1929" y="0" width="656" height="698" frameX="-3" frameY="-1" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0004" x="2585" y="0" width="639" height="693" frameX="-1" frameY="0" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0005" x="3224" y="0" width="656" height="697" frameX="-3" frameY="-1" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0006" x="0" y="698" width="635" height="696" frameX="-5" frameY="-7" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0007" x="635" y="698" width="653" height="697" frameX="-6" frameY="-8" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0008" x="1288" y="698" width="632" height="696" frameX="-8" frameY="-13" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0009" x="1920" y="698" width="651" height="695" frameX="-8" frameY="-16" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0010" x="2571" y="698" width="635" height="695" frameX="-5" frameY="-12" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0011" x="3206" y="698" width="656" height="697" frameX="-3" frameY="-8" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0012" x="0" y="1395" width="638" height="695" frameX="-2" frameY="-7" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0013" x="638" y="1395" width="656" height="697" frameX="-3" frameY="-4" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0014" x="1294" y="1395" width="637" height="696" frameX="-3" frameY="-6" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0015" x="1931" y="1395" width="656" height="697" frameX="-3" frameY="-8" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0016" x="2587" y="1395" width="637" height="695" frameX="-3" frameY="-12" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0017" x="3224" y="1395" width="656" height="697" frameX="-3" frameY="-15" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0018" x="0" y="2092" width="637" height="696" frameX="-3" frameY="-14" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0019" x="3224" y="0" width="656" height="697" frameX="-3" frameY="-8" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0020" x="637" y="2092" width="637" height="696" frameX="-3" frameY="-7" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0021" x="1274" y="2092" width="656" height="697" frameX="-3" frameY="-4" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0022" x="1930" y="2092" width="637" height="695" frameX="-3" frameY="-4" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0023" x="1274" y="2092" width="656" height="697" frameX="-3" frameY="-4" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0024" x="637" y="2092" width="637" height="696" frameX="-3" frameY="-7" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0025" x="3224" y="0" width="656" height="697" frameX="-3" frameY="-8" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0026" x="1930" y="2092" width="637" height="695" frameX="-3" frameY="-12" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0027" x="2567" y="2092" width="656" height="697" frameX="-3" frameY="-14" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0028" x="3223" y="2092" width="637" height="695" frameX="-3" frameY="-19" frameWidth="659" frameHeight="731"/>
+	<SubTexture name="daplum0029" x="0" y="2789" width="654" height="697" frameX="-5" frameY="-21" frameWidth="659" frameHeight="731"/>
+</TextureAtlas>

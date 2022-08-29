@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cain.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CainDown0000" x="0" y="0" width="302" height="318" frameX="0" frameY="-19" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0001" x="0" y="0" width="302" height="318" frameX="0" frameY="-19" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0002" x="302" y="0" width="292" height="333" frameX="-9" frameY="-4" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0003" x="302" y="0" width="292" height="333" frameX="-9" frameY="-4" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0004" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0005" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0006" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0007" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0008" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0009" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0010" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0011" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0012" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0013" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainDown0014" x="594" y="0" width="290" height="337" frameX="-12" frameY="0" frameWidth="302" frameHeight="337"/>
+	<SubTexture name="CainIdle0000" x="884" y="0" width="290" height="348" frameX="-4" frameY="-25" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0001" x="884" y="0" width="290" height="348" frameX="-4" frameY="-25" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0002" x="1174" y="0" width="298" height="344" frameX="0" frameY="-29" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0003" x="1174" y="0" width="298" height="344" frameX="0" frameY="-29" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0004" x="1472" y="0" width="286" height="357" frameX="-5" frameY="-16" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0005" x="1472" y="0" width="286" height="357" frameX="-5" frameY="-16" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0006" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0007" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0008" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0009" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0010" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0011" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0012" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0013" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainIdle0014" x="1758" y="0" width="273" height="373" frameX="-13" frameY="0" frameWidth="298" frameHeight="373"/>
+	<SubTexture name="CainLeft0000" x="0" y="373" width="307" height="359"/>
+	<SubTexture name="CainLeft0001" x="0" y="373" width="307" height="359"/>
+	<SubTexture name="CainLeft0002" x="307" y="373" width="292" height="358" frameX="-8" frameY="-1" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0003" x="307" y="373" width="292" height="358" frameX="-8" frameY="-1" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0004" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0005" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0006" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0007" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0008" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0009" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0010" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0011" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0012" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0013" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainLeft0014" x="599" y="373" width="287" height="356" frameX="-12" frameY="-3" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="CainRight0000" x="886" y="373" width="315" height="355" frameX="-5" frameY="0" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0001" x="886" y="373" width="315" height="355" frameX="-5" frameY="0" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0002" x="1201" y="373" width="311" height="355" frameX="-3" frameY="0" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0003" x="1201" y="373" width="311" height="355" frameX="-3" frameY="0" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0004" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0005" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0006" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0007" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0008" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0009" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0010" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0011" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0012" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0013" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainRight0014" x="1512" y="373" width="307" height="354" frameX="0" frameY="-1" frameWidth="320" frameHeight="355"/>
+	<SubTexture name="CainUp0000" x="0" y="732" width="360" height="380"/>
+	<SubTexture name="CainUp0001" x="0" y="732" width="360" height="380"/>
+	<SubTexture name="CainUp0002" x="360" y="732" width="351" height="373" frameX="-3" frameY="-6" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0003" x="360" y="732" width="351" height="373" frameX="-3" frameY="-6" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0004" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0005" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0006" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0007" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0008" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0009" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0010" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0011" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0012" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0013" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+	<SubTexture name="CainUp0014" x="711" y="732" width="347" height="368" frameX="-3" frameY="-10" frameWidth="360" frameHeight="380"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demonsmoke.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dasmoke0000" x="0" y="0" width="1319" height="547" frameX="-20" frameY="-64" frameWidth="1339" frameHeight="655"/>
+	<SubTexture name="dasmoke0001" x="0" y="547" width="817" height="614" frameX="-73" frameY="-21" frameWidth="1339" frameHeight="655"/>
+	<SubTexture name="dasmoke0002" x="817" y="547" width="899" height="556" frameX="-93" frameY="-49" frameWidth="1339" frameHeight="655"/>
+	<SubTexture name="dasmoke0003" x="0" y="1161" width="1077" height="599" frameX="0" frameY="-22" frameWidth="1339" frameHeight="655"/>
+	<SubTexture name="dasmoke0004" x="0" y="1760" width="1105" height="655" frameX="-82" frameY="0" frameWidth="1339" frameHeight="655"/>
+	<SubTexture name="dasmoke0005" x="0" y="2415" width="1217" height="627" frameX="-67" frameY="-4" frameWidth="1339" frameHeight="655"/>
+</TextureAtlas>

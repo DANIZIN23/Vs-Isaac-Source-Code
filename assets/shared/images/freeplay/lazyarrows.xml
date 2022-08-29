@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lazyarrows.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow0000" x="0" y="0" width="990" height="1052" frameX="0" frameY="0" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0001" x="0" y="0" width="990" height="1052" frameX="0" frameY="0" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0002" x="990" y="0" width="89" height="1021" frameX="-899" frameY="-37" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0003" x="990" y="0" width="89" height="1021" frameX="-899" frameY="-37" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0004" x="1079" y="0" width="87" height="1027" frameX="-900" frameY="-34" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0005" x="1166" y="0" width="86" height="1038" frameX="-900" frameY="-28" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0006" x="1252" y="0" width="86" height="1043" frameX="-900" frameY="-26" frameWidth="990" frameHeight="1069"/>
+	<SubTexture name="arrow0007" x="1338" y="0" width="89" height="1027" frameX="-899" frameY="-34" frameWidth="990" frameHeight="1069"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gapersanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gaper0000" x="0" y="0" width="3423" height="1029" frameX="-22" frameY="-52" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0001" x="0" y="1029" width="3417" height="1005" frameX="-25" frameY="-80" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0002" x="0" y="2034" width="3388" height="1044" frameX="-40" frameY="-17" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0003" x="0" y="3078" width="3445" height="1021" frameX="0" frameY="-8" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0004" x="0" y="4099" width="3437" height="1023" frameX="-10" frameY="0" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0005" x="0" y="5122" width="3433" height="1021" frameX="-16" frameY="-16" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0006" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0007" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0008" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0009" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0010" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0011" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0012" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0013" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+	<SubTexture name="gaper0014" x="0" y="6143" width="3436" height="1036" frameX="-16" frameY="-11" frameWidth="3452" frameHeight="1085"/>
+</TextureAtlas>

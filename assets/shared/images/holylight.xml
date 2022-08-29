@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="holylight.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="holylight0000" x="0" y="0" width="1056" height="1990" frameX="-51" frameY="0" frameWidth="1158" frameHeight="1990"/>
+	<SubTexture name="holylight0001" x="1056" y="0" width="1094" height="1990" frameX="-32" frameY="0" frameWidth="1158" frameHeight="1990"/>
+	<SubTexture name="holylight0002" x="2150" y="0" width="1137" height="1990" frameX="-10" frameY="0" frameWidth="1158" frameHeight="1990"/>
+	<SubTexture name="holylight0003" x="0" y="1990" width="1158" height="1990"/>
+	<SubTexture name="holylight0004" x="2150" y="0" width="1137" height="1990" frameX="-10" frameY="0" frameWidth="1158" frameHeight="1990"/>
+</TextureAtlas>

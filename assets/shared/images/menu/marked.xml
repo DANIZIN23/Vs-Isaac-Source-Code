@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marked.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marked0000" x="0" y="0" width="636" height="730" frameX="-6" frameY="-24" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0001" x="636" y="0" width="658" height="703" frameX="0" frameY="-48" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0002" x="1294" y="0" width="623" height="742" frameX="-14" frameY="-17" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0003" x="0" y="742" width="605" height="762" frameX="-24" frameY="0" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0004" x="605" y="742" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0005" x="1228" y="742" width="623" height="750" frameX="-14" frameY="-11" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0006" x="0" y="1504" width="628" height="749" frameX="-11" frameY="-13" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0007" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0008" x="1251" y="1504" width="623" height="751" frameX="-14" frameY="-7" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0009" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0010" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0011" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0012" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0013" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+	<SubTexture name="marked0014" x="628" y="1504" width="623" height="751" frameX="-14" frameY="-8" frameWidth="658" frameHeight="762"/>
+</TextureAtlas>

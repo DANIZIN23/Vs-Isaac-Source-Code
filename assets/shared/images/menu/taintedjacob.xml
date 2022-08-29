@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="taintedjacob.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tjacob0000" x="0" y="0" width="876" height="1580" frameX="-14" frameY="-11" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0001" x="876" y="0" width="895" height="1471" frameX="0" frameY="-121" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0002" x="1771" y="0" width="889" height="1475" frameX="-17" frameY="-117" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0003" x="2660" y="0" width="839" height="1510" frameX="-34" frameY="-82" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0004" x="0" y="1580" width="820" height="1572" frameX="-37" frameY="-20" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0005" x="820" y="1580" width="846" height="1592" frameX="-34" frameY="0" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0006" x="1666" y="1580" width="854" height="1507" frameX="-34" frameY="-85" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0007" x="2520" y="1580" width="860" height="1543" frameX="-34" frameY="-49" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0008" x="0" y="3172" width="848" height="1566" frameX="-34" frameY="-26" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0009" x="848" y="3172" width="841" height="1579" frameX="-34" frameY="-13" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0010" x="1689" y="3172" width="833" height="1580" frameX="-34" frameY="-12" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0011" x="2522" y="3172" width="828" height="1502" frameX="-34" frameY="-90" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0012" x="0" y="4752" width="837" height="1544" frameX="-34" frameY="-48" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0013" x="837" y="4752" width="841" height="1557" frameX="-34" frameY="-35" frameWidth="906" frameHeight="1592"/>
+	<SubTexture name="tjacob0014" x="1678" y="4752" width="843" height="1573" frameX="-34" frameY="-19" frameWidth="906" frameHeight="1592"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trasheffect.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red0000" x="0" y="0" width="1034" height="996" frameX="-891" frameY="-766" frameWidth="3014" frameHeight="2471"/>
+	<SubTexture name="red0001" x="1034" y="0" width="1572" height="1305" frameX="-629" frameY="-605" frameWidth="3014" frameHeight="2471"/>
+	<SubTexture name="red0002" x="0" y="1305" width="2042" height="1682" frameX="-398" frameY="-369" frameWidth="3014" frameHeight="2471"/>
+	<SubTexture name="red0003" x="0" y="2987" width="2870" height="2205" frameX="0" frameY="-121" frameWidth="3014" frameHeight="2471"/>
+	<SubTexture name="red0004" x="0" y="5192" width="2965" height="2471" frameX="-49" frameY="0" frameWidth="3014" frameHeight="2471"/>
+</TextureAtlas>

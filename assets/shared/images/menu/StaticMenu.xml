@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StaticMenu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="susstatic0000" x="0" y="0" width="1929" height="1090"/>
+	<SubTexture name="susstatic0001" x="1929" y="0" width="1929" height="1090"/>
+	<SubTexture name="susstatic0002" x="0" y="1090" width="1929" height="1090"/>
+	<SubTexture name="susstatic0003" x="1929" y="1090" width="1929" height="1090"/>
+	<SubTexture name="susstatic0004" x="1929" y="0" width="1929" height="1090"/>
+</TextureAtlas>

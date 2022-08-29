@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FREEZER.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bombtheorb0000" x="0" y="0" width="394" height="803" frameX="0" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0001" x="394" y="0" width="402" height="803" frameX="-33" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0002" x="796" y="0" width="367" height="803" frameX="-26" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0003" x="1163" y="0" width="348" height="803" frameX="-67" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0004" x="1511" y="0" width="347" height="803" frameX="-44" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0005" x="0" y="803" width="347" height="803" frameX="-59" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0006" x="347" y="803" width="348" height="803" frameX="-47" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0007" x="695" y="803" width="347" height="803" frameX="-54" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0008" x="1042" y="803" width="348" height="803" frameX="-47" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0009" x="1390" y="803" width="347" height="803" frameX="-54" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0010" x="347" y="803" width="348" height="803" frameX="-47" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0011" x="1390" y="803" width="347" height="803" frameX="-54" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0012" x="347" y="803" width="348" height="803" frameX="-47" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0013" x="0" y="1606" width="347" height="803" frameX="-54" frameY="0" frameWidth="435" frameHeight="803"/>
+	<SubTexture name="bombtheorb0014" x="347" y="803" width="348" height="803" frameX="-47" frameY="0" frameWidth="435" frameHeight="803"/>
+</TextureAtlas>

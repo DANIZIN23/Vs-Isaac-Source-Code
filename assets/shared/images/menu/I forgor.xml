@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="I forgor.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="forgotten0000" x="0" y="0" width="747" height="866" frameX="0" frameY="-28" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0001" x="747" y="0" width="741" height="883" frameX="0" frameY="-11" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0002" x="1488" y="0" width="736" height="892" frameX="0" frameY="-2" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0003" x="2224" y="0" width="741" height="892" frameX="0" frameY="-2" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0004" x="2965" y="0" width="746" height="890" frameX="0" frameY="-4" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0005" x="0" y="892" width="738" height="892" frameX="0" frameY="-2" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0006" x="738" y="892" width="741" height="886" frameX="0" frameY="-8" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0007" x="1479" y="892" width="741" height="881" frameX="0" frameY="-13" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0008" x="2220" y="892" width="741" height="883" frameX="0" frameY="-11" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0009" x="2961" y="892" width="741" height="885" frameX="0" frameY="-9" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0010" x="0" y="1784" width="741" height="887" frameX="0" frameY="-7" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0011" x="741" y="1784" width="741" height="889" frameX="0" frameY="-5" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0012" x="1482" y="1784" width="741" height="890" frameX="0" frameY="-4" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0013" x="2223" y="1784" width="741" height="892" frameX="0" frameY="-2" frameWidth="747" frameHeight="894"/>
+	<SubTexture name="forgotten0014" x="2964" y="1784" width="741" height="894" frameX="0" frameY="0" frameWidth="747" frameHeight="894"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darksmoke.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smoke0000" x="0" y="0" width="7926" height="2232" frameX="0" frameY="0" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0001" x="0" y="2232" width="7926" height="2233" frameX="-78" frameY="0" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0002" x="0" y="4465" width="7926" height="2233" frameX="-157" frameY="0" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0005" x="0" y="4465" width="7926" height="2233" frameX="-393" frameY="-1" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0010" x="0" y="0" width="7926" height="2232" frameX="-786" frameY="-3" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0011" x="0" y="0" width="7926" height="2232" frameX="-865" frameY="-3" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0014" x="0" y="0" width="7926" height="2232" frameX="-1101" frameY="-4" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0021" x="0" y="0" width="7926" height="2232" frameX="-1651" frameY="-6" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0024" x="0" y="0" width="7926" height="2232" frameX="-1887" frameY="-7" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0027" x="0" y="0" width="7926" height="2232" frameX="-2123" frameY="-8" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0030" x="0" y="0" width="7926" height="2232" frameX="-2359" frameY="-9" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0033" x="0" y="0" width="7926" height="2232" frameX="-2595" frameY="-10" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0034" x="0" y="0" width="7926" height="2232" frameX="-2674" frameY="-10" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0037" x="0" y="0" width="7926" height="2232" frameX="-2909" frameY="-11" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0043" x="0" y="0" width="7926" height="2232" frameX="-3381" frameY="-13" frameWidth="12566" frameHeight="2250"/>
+	<SubTexture name="smoke0057" x="0" y="0" width="7926" height="2232" frameX="-4482" frameY="-17" frameWidth="12566" frameHeight="2250"/>
+</TextureAtlas>

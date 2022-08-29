@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gurdy.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gurdy0000" x="0" y="0" width="1112" height="1089" frameX="0" frameY="-69" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0001" x="1112" y="0" width="1095" height="1130" frameX="-9" frameY="-28" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0002" x="2207" y="0" width="1067" height="1157" frameX="-23" frameY="0" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0003" x="0" y="1157" width="1080" height="1139" frameX="-16" frameY="-18" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0004" x="1080" y="1157" width="1086" height="1131" frameX="-13" frameY="-26" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0005" x="2166" y="1157" width="1095" height="1125" frameX="-9" frameY="-32" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0006" x="0" y="2296" width="1097" height="1134" frameX="-8" frameY="-24" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0007" x="1097" y="2296" width="1088" height="1136" frameX="-12" frameY="-21" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0008" x="2185" y="2296" width="1081" height="1140" frameX="-16" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0009" x="0" y="3436" width="1057" height="1140" frameX="-32" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0010" x="1057" y="3436" width="1069" height="1140" frameX="-24" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0011" x="2126" y="3436" width="1078" height="1140" frameX="-17" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0012" x="0" y="4576" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0013" x="1073" y="4576" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0014" x="2146" y="4576" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0015" x="0" y="5716" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0016" x="1073" y="5716" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0017" x="1073" y="4576" width="1073" height="1140" frameX="-20" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0018" x="2146" y="5716" width="1081" height="1140" frameX="-16" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+	<SubTexture name="gurdy0019" x="0" y="6856" width="1057" height="1140" frameX="-32" frameY="-17" frameWidth="1112" frameHeight="1158"/>
+</TextureAtlas>

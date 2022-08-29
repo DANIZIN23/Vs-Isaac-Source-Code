@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="steven.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="steven0000" x="0" y="0" width="738" height="1001" frameX="0" frameY="-46" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0001" x="738" y="0" width="735" height="1021" frameX="-3" frameY="-26" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0002" x="1473" y="0" width="738" height="1029" frameX="-3" frameY="-18" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0003" x="2211" y="0" width="738" height="1034" frameX="-4" frameY="-13" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0004" x="2949" y="0" width="737" height="1039" frameX="-4" frameY="-8" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0005" x="0" y="1039" width="734" height="1044" frameX="-4" frameY="-3" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0006" x="734" y="1039" width="731" height="1047" frameX="-4" frameY="0" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0007" x="1465" y="1039" width="729" height="1046" frameX="-4" frameY="-1" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0008" x="2194" y="1039" width="731" height="1044" frameX="-4" frameY="-3" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0009" x="2925" y="1039" width="734" height="1041" frameX="-4" frameY="-6" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0010" x="0" y="1039" width="734" height="1044" frameX="-4" frameY="-3" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0011" x="0" y="1039" width="734" height="1044" frameX="-4" frameY="-3" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0012" x="0" y="2086" width="734" height="1045" frameX="-4" frameY="-2" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0013" x="734" y="2086" width="734" height="1041" frameX="-4" frameY="-6" frameWidth="742" frameHeight="1047"/>
+	<SubTexture name="steven0014" x="1468" y="2086" width="734" height="1029" frameX="-4" frameY="-18" frameWidth="742" frameHeight="1047"/>
+</TextureAtlas>

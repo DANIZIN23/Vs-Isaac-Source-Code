@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IsaacJammin.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="isaacjam0000" x="0" y="0" width="426" height="319" frameX="0" frameY="-10" frameWidth="426" frameHeight="332"/>
+	<SubTexture name="isaacjam0001" x="0" y="0" width="426" height="319" frameX="0" frameY="-10" frameWidth="426" frameHeight="332"/>
+	<SubTexture name="isaacjam0002" x="0" y="319" width="418" height="332" frameX="-5" frameY="0" frameWidth="426" frameHeight="332"/>
+	<SubTexture name="isaacjam0003" x="0" y="319" width="418" height="332" frameX="-5" frameY="0" frameWidth="426" frameHeight="332"/>
+</TextureAtlas>

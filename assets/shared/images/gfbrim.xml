@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfbrim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfbrim0000" x="0" y="0" width="1325" height="663" frameX="-9" frameY="-7" frameWidth="1340" frameHeight="670"/>
+	<SubTexture name="gfbrim0001" x="0" y="663" width="1339" height="665" frameX="-1" frameY="0" frameWidth="1340" frameHeight="670"/>
+	<SubTexture name="gfbrim0002" x="0" y="1328" width="1329" height="660" frameX="0" frameY="-5" frameWidth="1340" frameHeight="670"/>
+</TextureAtlas>

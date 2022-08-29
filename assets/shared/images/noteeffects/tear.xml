@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tear.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="207" height="175" frameX="0" frameY="-6" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="blue0001" x="0" y="175" width="195" height="179" frameX="-6" frameY="-4" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="blue0002" x="0" y="354" width="189" height="186" frameX="-9" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="blue0003" x="0" y="540" width="187" height="186" frameX="-10" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="blue0004" x="0" y="726" width="191" height="184" frameX="-8" frameY="-1" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="green0000" x="0" y="0" width="207" height="175" frameX="0" frameY="-6" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="green0001" x="0" y="175" width="195" height="179" frameX="-6" frameY="-4" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="green0002" x="0" y="354" width="189" height="186" frameX="-9" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="green0003" x="0" y="540" width="187" height="186" frameX="-10" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="green0004" x="0" y="726" width="191" height="184" frameX="-8" frameY="-1" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="red0000" x="0" y="0" width="207" height="175" frameX="0" frameY="-6" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="red0001" x="0" y="175" width="195" height="179" frameX="-6" frameY="-4" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="red0002" x="0" y="354" width="189" height="186" frameX="-9" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="red0003" x="0" y="540" width="187" height="186" frameX="-10" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="red0004" x="0" y="726" width="191" height="184" frameX="-8" frameY="-1" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="purple0000" x="0" y="0" width="207" height="175" frameX="0" frameY="-6" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="purple0001" x="0" y="175" width="195" height="179" frameX="-6" frameY="-4" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="purple0002" x="0" y="354" width="189" height="186" frameX="-9" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="purple0003" x="0" y="540" width="187" height="186" frameX="-10" frameY="0" frameWidth="207" frameHeight="186"/>
+	<SubTexture name="purple0004" x="0" y="726" width="191" height="184" frameX="-8" frameY="-1" frameWidth="207" frameHeight="186"/>
+</TextureAtlas>

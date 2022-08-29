@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="platgod.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="god0000" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0001" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0002" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0003" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0004" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0005" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0006" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0007" x="767" y="0" width="767" height="240"/>
+	<SubTexture name="god0008" x="0" y="240" width="767" height="240"/>
+	<SubTexture name="god0009" x="767" y="240" width="767" height="240"/>
+	<SubTexture name="god0010" x="0" y="480" width="767" height="240"/>
+	<SubTexture name="god0011" x="767" y="480" width="767" height="240"/>
+	<SubTexture name="god0012" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0013" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0014" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0015" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0016" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0017" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0018" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0019" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0020" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0021" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0022" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0023" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0024" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0025" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0026" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0027" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0028" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0029" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0030" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0031" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0032" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0033" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0034" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0035" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0036" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0037" x="0" y="720" width="767" height="240"/>
+	<SubTexture name="god0038" x="767" y="720" width="767" height="240"/>
+	<SubTexture name="god0039" x="0" y="960" width="767" height="240"/>
+	<SubTexture name="god0040" x="767" y="960" width="767" height="240"/>
+	<SubTexture name="god0041" x="0" y="1200" width="767" height="240"/>
+	<SubTexture name="god0042" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0043" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0044" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0045" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0046" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0047" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0048" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0049" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0050" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0051" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0052" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0053" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0054" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0055" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0056" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0057" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0058" x="0" y="0" width="767" height="240"/>
+	<SubTexture name="god0059" x="0" y="0" width="767" height="240"/>
+</TextureAtlas>

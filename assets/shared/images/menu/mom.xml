@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mombeat0000" x="0" y="0" width="1389" height="984" frameX="0" frameY="-29" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0001" x="1389" y="0" width="1386" height="1003" frameX="0" frameY="-12" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0002" x="0" y="1003" width="1382" height="1009" frameX="0" frameY="-8" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0003" x="1382" y="1003" width="1382" height="1015" frameX="0" frameY="-4" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0004" x="0" y="2018" width="1382" height="1018" frameX="0" frameY="-2" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0005" x="0" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0006" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0007" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0008" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0009" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0010" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0011" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0012" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0013" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+	<SubTexture name="mombeat0014" x="1382" y="2018" width="1382" height="1018" frameX="0" frameY="0" frameWidth="1389" frameHeight="1020"/>
+</TextureAtlas>

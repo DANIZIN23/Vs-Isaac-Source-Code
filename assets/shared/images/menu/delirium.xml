@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="delirium.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounce0000" x="0" y="0" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0001" x="1003" y="0" width="1003" height="851" frameX="-4" frameY="-8" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0002" x="0" y="851" width="1009" height="856" frameX="-1" frameY="-2" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0003" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0004" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0005" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0006" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0007" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0008" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0009" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0010" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0011" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0012" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0013" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0014" x="1009" y="851" width="1012" height="853" frameX="0" frameY="0" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0015" x="0" y="1707" width="1009" height="856" frameX="-1" frameY="-2" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0016" x="1009" y="1707" width="1003" height="851" frameX="-4" frameY="-8" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0017" x="0" y="2563" width="1005" height="836" frameX="-3" frameY="-25" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0018" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0019" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0020" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0021" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0022" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0023" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0024" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0025" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0026" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0027" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0028" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+	<SubTexture name="bounce0029" x="1005" y="2563" width="1003" height="838" frameX="-4" frameY="-23" frameWidth="1012" frameHeight="861"/>
+</TextureAtlas>

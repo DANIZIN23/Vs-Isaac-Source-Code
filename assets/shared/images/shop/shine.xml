@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shine.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shine0000" x="0" y="0" width="96" height="100"/>
+	<SubTexture name="shine0001" x="0" y="100" width="91" height="94" frameX="-3" frameY="-2" frameWidth="96" frameHeight="100"/>
+	<SubTexture name="shine0002" x="0" y="194" width="54" height="55" frameX="-21" frameY="-21" frameWidth="96" frameHeight="100"/>
+</TextureAtlas>

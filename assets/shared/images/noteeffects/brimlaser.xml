@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brimlaser.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laser0000" x="0" y="0" width="671" height="1494" frameX="-223" frameY="-40" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0001" x="671" y="0" width="1070" height="1576" frameX="-16" frameY="0" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0002" x="1741" y="0" width="1076" height="1478" frameX="0" frameY="-62" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0003" x="2817" y="0" width="1053" height="1489" frameX="-32" frameY="-87" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0004" x="0" y="1576" width="1060" height="1540" frameX="-9" frameY="-55" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0005" x="1060" y="1576" width="1070" height="1576" frameX="-16" frameY="0" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0006" x="2130" y="1576" width="1076" height="1478" frameX="0" frameY="-62" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0007" x="0" y="3152" width="1053" height="1489" frameX="-32" frameY="-87" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0008" x="1053" y="3152" width="1060" height="1540" frameX="-9" frameY="-55" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0009" x="2113" y="3152" width="1070" height="1576" frameX="-16" frameY="0" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0010" x="0" y="4728" width="1076" height="1478" frameX="0" frameY="-62" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0011" x="1076" y="4728" width="1053" height="1489" frameX="-32" frameY="-87" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0012" x="2129" y="4728" width="1060" height="1540" frameX="-9" frameY="-55" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0013" x="671" y="0" width="1070" height="1576" frameX="-16" frameY="0" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0014" x="1741" y="0" width="1076" height="1478" frameX="0" frameY="-62" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0015" x="2817" y="0" width="1053" height="1489" frameX="-32" frameY="-87" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0016" x="3189" y="4728" width="799" height="1462" frameX="-152" frameY="-81" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0017" x="0" y="6268" width="671" height="1494" frameX="-223" frameY="-40" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0018" x="671" y="6268" width="550" height="1414" frameX="-294" frameY="-92" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0019" x="1221" y="6268" width="391" height="1412" frameX="-372" frameY="-91" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0020" x="1612" y="6268" width="446" height="1390" frameX="-350" frameY="-115" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0021" x="2058" y="6268" width="457" height="1370" frameX="-322" frameY="-116" frameWidth="1086" frameHeight="1595"/>
+	<SubTexture name="laser0022" x="2515" y="6268" width="465" height="871" frameX="-319" frameY="-244" frameWidth="1086" frameHeight="1595"/>
+</TextureAtlas>

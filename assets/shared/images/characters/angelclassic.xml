@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angelclassic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AngelDown0000" x="0" y="0" width="443" height="322" frameX="0" frameY="-19" frameWidth="443" frameHeight="342"/>
+	<SubTexture name="AngelDown0001" x="0" y="0" width="443" height="322" frameX="0" frameY="-19" frameWidth="443" frameHeight="342"/>
+	<SubTexture name="AngelDown0002" x="443" y="0" width="443" height="338" frameX="0" frameY="-4" frameWidth="443" frameHeight="342"/>
+	<SubTexture name="AngelDown0003" x="443" y="0" width="443" height="338" frameX="0" frameY="-4" frameWidth="443" frameHeight="342"/>
+	<SubTexture name="AngelDown0004" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0005" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0006" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0007" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0008" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0009" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0010" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0011" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0012" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0013" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelDown0014" x="886" y="0" width="443" height="342"/>
+	<SubTexture name="AngelUp0000" x="1329" y="0" width="445" height="382" frameX="-6" frameY="0" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0001" x="1329" y="0" width="445" height="382" frameX="-6" frameY="0" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0002" x="0" y="382" width="451" height="377" frameX="-3" frameY="-3" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0003" x="0" y="382" width="451" height="377" frameX="-3" frameY="-3" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0004" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0005" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0006" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0007" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0008" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0009" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0010" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0011" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0012" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0013" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelUp0014" x="451" y="382" width="457" height="372" frameX="0" frameY="-4" frameWidth="457" frameHeight="382"/>
+	<SubTexture name="AngelRight0000" x="908" y="382" width="479" height="360" frameX="-4" frameY="0" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0001" x="908" y="382" width="479" height="360" frameX="-4" frameY="0" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0002" x="1387" y="382" width="474" height="360" frameX="-2" frameY="0" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0003" x="1387" y="382" width="474" height="360" frameX="-2" frameY="0" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0004" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0005" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0006" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0007" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0008" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0009" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0010" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0011" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0012" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0013" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelRight0014" x="0" y="759" width="470" height="359" frameX="0" frameY="-1" frameWidth="483" frameHeight="360"/>
+	<SubTexture name="AngelIdle0000" x="470" y="759" width="476" height="352" frameX="-1" frameY="-25" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0001" x="470" y="759" width="476" height="352" frameX="-1" frameY="-25" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0002" x="946" y="759" width="479" height="348" frameX="0" frameY="-29" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0003" x="946" y="759" width="479" height="348" frameX="0" frameY="-29" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0004" x="1425" y="759" width="465" height="361" frameX="-7" frameY="-16" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0005" x="1425" y="759" width="465" height="361" frameX="-7" frameY="-16" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0006" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0007" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0008" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0009" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0010" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0011" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0012" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0013" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelIdle0014" x="0" y="1120" width="444" height="377" frameX="-19" frameY="0" frameWidth="479" frameHeight="377"/>
+	<SubTexture name="AngelLeft0000" x="444" y="1120" width="472" height="364" frameX="0" frameY="0" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0001" x="444" y="1120" width="472" height="364" frameX="0" frameY="0" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0002" x="916" y="1120" width="464" height="363" frameX="-11" frameY="-1" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0003" x="916" y="1120" width="464" height="363" frameX="-11" frameY="-1" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0004" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0005" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0006" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0007" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0008" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0009" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0010" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0011" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0012" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0013" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="AngelLeft0014" x="1380" y="1120" width="460" height="361" frameX="-17" frameY="-3" frameWidth="477" frameHeight="364"/>
+	<SubTexture name="ZAngel0000" x="0" y="1497" width="443" height="323" frameX="-14" frameY="-939" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0001" x="443" y="1497" width="456" height="309" frameX="0" frameY="-949" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0002" x="899" y="1497" width="456" height="309" frameX="-11" frameY="-949" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0003" x="443" y="1497" width="456" height="309" frameX="0" frameY="-949" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0004" x="1355" y="1497" width="418" height="405" frameX="-26" frameY="-787" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0005" x="0" y="1902" width="412" height="464" frameX="-29" frameY="-403" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0006" x="412" y="1902" width="359" height="435" frameX="-56" frameY="-169" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0007" x="771" y="1902" width="412" height="391" frameX="-29" frameY="-116" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0008" x="1183" y="1902" width="428" height="335" frameX="-21" frameY="-29" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0009" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0010" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0011" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0012" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0013" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0014" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0015" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0016" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0017" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0018" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0019" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0020" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0021" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0022" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0023" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0024" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0025" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0026" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0027" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0028" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+	<SubTexture name="ZAngel0029" x="1611" y="1902" width="415" height="388" frameX="-28" frameY="0" frameWidth="467" frameHeight="1262"/>
+</TextureAtlas>

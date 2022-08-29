@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheStupendousMeatPerson.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ILiveInPain0000" x="0" y="0" width="639" height="542" frameX="-110" frameY="-246" frameWidth="859" frameHeight="794"/>
+	<SubTexture name="ILiveInPain0001" x="0" y="542" width="573" height="791" frameX="-143" frameY="0" frameWidth="859" frameHeight="794"/>
+	<SubTexture name="ILiveInPain0002" x="0" y="1333" width="859" height="455" frameX="0" frameY="-339" frameWidth="859" frameHeight="794"/>
+</TextureAtlas>

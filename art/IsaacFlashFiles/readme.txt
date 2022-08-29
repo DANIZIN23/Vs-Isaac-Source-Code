@@ -1,0 +1,2 @@
+yea sorry if these are hard to work with, these .fla files are a fucking mess lmao. didn't really make them with other people editing them in mind, but hey, i'd rather share these than not share them at all. Not all of the menu stuff and such is included.
+good luck, and have fun.

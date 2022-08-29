@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheStupendousMeatPerson.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="1127" height="322" frameX="-119" frameY="-177" frameWidth="1366" frameHeight="499"/>
+	<SubTexture name="down0001" x="1127" y="0" width="1366" height="158" frameX="0" frameY="-334" frameWidth="1366" frameHeight="499"/>
+	<SubTexture name="down0002" x="2493" y="0" width="910" height="494" frameX="-229" frameY="0" frameWidth="1366" frameHeight="499"/>
+	<SubTexture name="idle0000" x="3403" y="0" width="638" height="542" frameX="-110" frameY="-145" frameWidth="859" frameHeight="692"/>
+	<SubTexture name="idle0001" x="0" y="542" width="638" height="685" frameX="-110" frameY="0" frameWidth="859" frameHeight="692"/>
+	<SubTexture name="idle0002" x="638" y="542" width="859" height="454" frameX="0" frameY="-238" frameWidth="859" frameHeight="692"/>
+	<SubTexture name="left0000" x="1497" y="542" width="865" height="611" frameX="-28" frameY="0" frameWidth="960" frameHeight="611"/>
+	<SubTexture name="left0001" x="2362" y="542" width="889" height="611" frameX="0" frameY="0" frameWidth="960" frameHeight="611"/>
+	<SubTexture name="left0002" x="3251" y="542" width="758" height="611" frameX="-202" frameY="0" frameWidth="960" frameHeight="611"/>
+	<SubTexture name="right0000" x="0" y="1227" width="910" height="611" frameX="-47" frameY="0" frameWidth="987" frameHeight="611"/>
+	<SubTexture name="right0001" x="910" y="1227" width="936" height="611" frameX="-51" frameY="0" frameWidth="987" frameHeight="611"/>
+	<SubTexture name="right0002" x="1846" y="1227" width="839" height="611" frameX="0" frameY="0" frameWidth="987" frameHeight="611"/>
+	<SubTexture name="up0000" x="2685" y="1227" width="507" height="1006" frameX="-88" frameY="-79" frameWidth="686" frameHeight="1085"/>
+	<SubTexture name="up0001" x="3192" y="1227" width="494" height="1084" frameX="-96" frameY="0" frameWidth="686" frameHeight="1085"/>
+	<SubTexture name="up0002" x="0" y="2311" width="686" height="774" frameX="0" frameY="-306" frameWidth="686" frameHeight="1085"/>
+</TextureAtlas>

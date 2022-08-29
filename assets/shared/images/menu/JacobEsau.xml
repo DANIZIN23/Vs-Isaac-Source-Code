@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JacobEsau.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jacob0000" x="0" y="0" width="673" height="1203" frameX="-4" frameY="-38" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0001" x="673" y="0" width="680" height="1189" frameX="0" frameY="-53" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0002" x="1353" y="0" width="654" height="1231" frameX="-13" frameY="-11" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0003" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0004" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0005" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0006" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0007" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0008" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0009" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0010" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0011" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0012" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0013" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+	<SubTexture name="jacob0014" x="0" y="1231" width="649" height="1242" frameX="-15" frameY="0" frameWidth="680" frameHeight="1242"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="startscreen.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="start0000" x="0" y="0" width="897" height="839" frameX="0" frameY="-26" frameWidth="897" frameHeight="868"/>
+	<SubTexture name="start0001" x="0" y="0" width="897" height="839" frameX="0" frameY="-26" frameWidth="897" frameHeight="868"/>
+	<SubTexture name="start0002" x="0" y="839" width="884" height="868" frameX="-10" frameY="0" frameWidth="897" frameHeight="868"/>
+	<SubTexture name="start0003" x="0" y="839" width="884" height="868" frameX="-10" frameY="0" frameWidth="897" frameHeight="868"/>
+</TextureAtlas>

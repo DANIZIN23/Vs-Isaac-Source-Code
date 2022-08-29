@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thelamb.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lamb0000" x="0" y="0" width="1256" height="798" frameX="-46" frameY="-9" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0001" x="1256" y="0" width="1264" height="766" frameX="-18" frameY="-34" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0002" x="2520" y="0" width="1265" height="767" frameX="-9" frameY="-29" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0003" x="0" y="798" width="1275" height="754" frameX="0" frameY="-43" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0004" x="1275" y="798" width="1263" height="768" frameX="-23" frameY="-32" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0005" x="2538" y="798" width="1252" height="799" frameX="-56" frameY="0" frameWidth="1309" frameHeight="807"/>
+	<SubTexture name="lamb0006" x="0" y="1597" width="1256" height="792" frameX="-53" frameY="-8" frameWidth="1309" frameHeight="807"/>
+</TextureAtlas>

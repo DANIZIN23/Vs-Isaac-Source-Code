@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LogoAnim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounce0000" x="0" y="0" width="1115" height="743" frameX="0" frameY="0" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0001" x="0" y="743" width="1115" height="743" frameX="0" frameY="-1" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0002" x="0" y="0" width="1115" height="743" frameX="0" frameY="-4" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0003" x="0" y="0" width="1115" height="743" frameX="0" frameY="-10" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0004" x="0" y="0" width="1115" height="743" frameX="0" frameY="-11" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0005" x="0" y="0" width="1115" height="743" frameX="0" frameY="-10" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0006" x="0" y="0" width="1115" height="743" frameX="0" frameY="-5" frameWidth="1115" frameHeight="755"/>
+	<SubTexture name="bounce0007" x="0" y="0" width="1115" height="743" frameX="0" frameY="0" frameWidth="1115" frameHeight="755"/>
+</TextureAtlas>

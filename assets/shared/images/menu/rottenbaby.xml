@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rottenbaby.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rotten0000" x="0" y="0" width="646" height="641" frameX="0" frameY="-53" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0001" x="646" y="0" width="655" height="653" frameX="-1" frameY="-28" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0002" x="1301" y="0" width="642" height="666" frameX="-4" frameY="-5" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0003" x="0" y="666" width="653" height="665" frameX="-3" frameY="0" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0004" x="653" y="666" width="642" height="664" frameX="-4" frameY="-5" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0005" x="1295" y="666" width="652" height="666" frameX="-4" frameY="-9" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0006" x="0" y="1332" width="643" height="664" frameX="-3" frameY="-11" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0007" x="643" y="1332" width="652" height="663" frameX="-4" frameY="-13" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0008" x="1295" y="1332" width="643" height="664" frameX="-3" frameY="-13" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0009" x="0" y="1996" width="652" height="667" frameX="-4" frameY="-9" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0010" x="652" y="1996" width="642" height="666" frameX="-4" frameY="-8" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0011" x="1294" y="1996" width="652" height="666" frameX="-4" frameY="-5" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0012" x="0" y="2663" width="642" height="666" frameX="-4" frameY="-3" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0013" x="642" y="2663" width="652" height="666" frameX="-4" frameY="-6" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0014" x="1294" y="2663" width="642" height="666" frameX="-4" frameY="-11" frameWidth="656" frameHeight="694"/>
+	<SubTexture name="rotten0015" x="0" y="3329" width="652" height="666" frameX="-4" frameY="-21" frameWidth="656" frameHeight="694"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Incubus.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flappybird0000" x="0" y="0" width="305" height="337" frameX="-75" frameY="-56" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0001" x="305" y="0" width="295" height="359" frameX="-78" frameY="-28" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0002" x="600" y="0" width="361" height="370" frameX="-7" frameY="-10" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0003" x="0" y="370" width="358" height="376" frameX="-8" frameY="0" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0004" x="358" y="370" width="373" height="358" frameX="0" frameY="-11" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0005" x="358" y="370" width="373" height="358" frameX="0" frameY="-6" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0006" x="0" y="746" width="359" height="372" frameX="-9" frameY="-13" frameWidth="380" frameHeight="393"/>
+	<SubTexture name="flappybird0007" x="359" y="746" width="355" height="374" frameX="-12" frameY="-18" frameWidth="380" frameHeight="393"/>
+</TextureAtlas>

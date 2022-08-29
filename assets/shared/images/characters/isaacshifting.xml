@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="isaacshifting.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShiftingRight0000" x="0" y="0" width="317" height="356" frameX="-5" frameY="0" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0001" x="0" y="0" width="317" height="356" frameX="-5" frameY="0" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0002" x="317" y="0" width="313" height="356" frameX="-3" frameY="0" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0003" x="317" y="0" width="313" height="356" frameX="-3" frameY="0" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0004" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0005" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0006" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0007" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0008" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0009" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0010" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0011" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0012" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0013" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingRight0014" x="630" y="0" width="309" height="355" frameX="0" frameY="-1" frameWidth="322" frameHeight="356"/>
+	<SubTexture name="ShiftingUp0000" x="939" y="0" width="303" height="401"/>
+	<SubTexture name="ShiftingUp0001" x="939" y="0" width="303" height="401"/>
+	<SubTexture name="ShiftingUp0002" x="1242" y="0" width="295" height="398" frameX="-2" frameY="-2" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0003" x="1242" y="0" width="295" height="398" frameX="-2" frameY="-2" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0004" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0005" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0006" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0007" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0008" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0009" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0010" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0011" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0012" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0013" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingUp0014" x="1537" y="0" width="292" height="394" frameX="-1" frameY="-5" frameWidth="303" frameHeight="401"/>
+	<SubTexture name="ShiftingDown0000" x="0" y="401" width="287" height="331" frameX="0" frameY="-21" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0001" x="0" y="401" width="287" height="331" frameX="0" frameY="-21" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0002" x="287" y="401" width="279" height="348" frameX="-4" frameY="-4" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0003" x="287" y="401" width="279" height="348" frameX="-4" frameY="-4" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0004" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0005" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0006" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0007" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0008" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0009" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0010" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0011" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0012" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0013" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingDown0014" x="566" y="401" width="279" height="352" frameX="-3" frameY="0" frameWidth="287" frameHeight="352"/>
+	<SubTexture name="ShiftingIdle0000" x="845" y="401" width="268" height="348" frameX="-3" frameY="-25" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0001" x="845" y="401" width="268" height="348" frameX="-3" frameY="-25" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0002" x="1113" y="401" width="274" height="344" frameX="-1" frameY="-29" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0003" x="1113" y="401" width="274" height="344" frameX="-1" frameY="-29" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0004" x="1387" y="401" width="264" height="357" frameX="-4" frameY="-16" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0005" x="1387" y="401" width="264" height="357" frameX="-4" frameY="-16" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0006" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0007" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0008" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0009" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0010" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0011" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0012" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0013" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingIdle0014" x="1651" y="401" width="264" height="372" frameX="0" frameY="0" frameWidth="275" frameHeight="373"/>
+	<SubTexture name="ShiftingLeft0000" x="0" y="773" width="318" height="388" frameX="0" frameY="-1" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0001" x="0" y="773" width="318" height="388" frameX="0" frameY="-1" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0002" x="318" y="773" width="314" height="389" frameX="-4" frameY="0" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0003" x="318" y="773" width="314" height="389" frameX="-4" frameY="0" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0004" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0005" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0006" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0007" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0008" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0009" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0010" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0011" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0012" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0013" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+	<SubTexture name="ShiftingLeft0014" x="632" y="773" width="314" height="387" frameX="-5" frameY="-2" frameWidth="319" frameHeight="389"/>
+</TextureAtlas>

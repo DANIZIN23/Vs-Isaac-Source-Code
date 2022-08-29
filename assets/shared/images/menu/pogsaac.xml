@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pogsaac.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WHY0000" x="0" y="0" width="688" height="892" frameX="0" frameY="-18" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0001" x="688" y="0" width="678" height="906" frameX="-5" frameY="-9" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0002" x="1366" y="0" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0003" x="0" y="926" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0004" x="670" y="926" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0005" x="1340" y="926" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0006" x="0" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0007" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0008" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0009" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0010" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0011" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0012" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0013" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+	<SubTexture name="WHY0014" x="670" y="1852" width="670" height="926" frameX="-9" frameY="0" frameWidth="688" frameHeight="926"/>
+</TextureAtlas>
